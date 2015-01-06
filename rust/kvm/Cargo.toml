@@ -5,4 +5,5 @@ version = "0.0.1"
 authors = ["anurse <andrew@andrewnurse.net>"]
 
 [dependencies]
-docopt_macros = "0.6.23"
+hyper = "0.0.20"
+semver = "*"
